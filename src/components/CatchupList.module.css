@@ -48,6 +48,7 @@
 .actions button:nth-of-type(1) {
     width: 10rem;
     height: 3rem;
+    margin-bottom: 4rem;
     font: inherit;
     font-weight: bold;
     font-size: larger;
@@ -66,7 +67,8 @@
     color: #ff8260;
     background-color: #151b29;
     border: 2px solid;
-    margin-left: 15rem;
+    margin-left: 7rem;
+    margin-bottom: 3rem;
     cursor: pointer;
     transition: color 0.3s, border-color 0.3s, box-shadow 0.3s, transform 0.3s;
   }
